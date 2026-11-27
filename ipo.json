@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26 23:41",
- "price_date": "2026-11-26",
+ "updated": "2026-11-27 18:41",
+ "price_date": "2026-11-27",
  "upcoming": [
   {
    "name": "유캐스트",
@@ -641,112 +641,6 @@
     }
    ],
    "float0": 37.5
-  },
-  {
-   "name": "씨아이에스케미칼",
-   "corp_code": "01077540",
-   "rcept": "20261111000341",
-   "filed": "20261019",
-   "updated": "20261111",
-   "sub0": "2026-12-10",
-   "sub1": "2026-12-11",
-   "pay": "2026-12-15",
-   "price": 5400.0,
-   "shares": 4000000.0,
-   "amount": 21600000000.0,
-   "method": "일반공모",
-   "lead": [
-    "케이비증권"
-   ],
-   "co": [],
-   "old_pct": 0,
-   "spac": false,
-   "stock": "",
-   "band": [
-    5400.0,
-    6800.0
-   ],
-   "final": null,
-   "demand_ratio": null,
-   "lock_pct": null,
-   "listed_shares": 30916595.0,
-   "float": [
-    [
-     0,
-     11658971.0,
-     37.71
-    ],
-    [
-     1,
-     19535265.0,
-     63.19
-    ],
-    [
-     3,
-     20518228.0,
-     66.37
-    ],
-    [
-     4,
-     20518228.0,
-     66.37
-    ],
-    [
-     6,
-     23173228.0,
-     74.95
-    ],
-    [
-     12,
-     23547321.0,
-     76.16
-    ],
-    [
-     36,
-     30916595.0,
-     100.0
-    ]
-   ],
-   "list_date": null,
-   "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000341",
-   "unlock": [
-    {
-     "mo": 1,
-     "sh": 7876294.0,
-     "pct": 25.48,
-     "date": null,
-     "vol_x": null
-    },
-    {
-     "mo": 3,
-     "sh": 982963.0,
-     "pct": 3.18,
-     "date": null,
-     "vol_x": null
-    },
-    {
-     "mo": 6,
-     "sh": 2655000.0,
-     "pct": 8.59,
-     "date": null,
-     "vol_x": null
-    },
-    {
-     "mo": 12,
-     "sh": 374093.0,
-     "pct": 1.21,
-     "date": null,
-     "vol_x": null
-    },
-    {
-     "mo": 36,
-     "sh": 7369274.0,
-     "pct": 23.84,
-     "date": null,
-     "vol_x": null
-    }
-   ],
-   "float0": 37.71
   },
   {
    "name": "데스틴파워",
@@ -1409,6 +1303,37 @@
     }
    ],
    "float0": 24.97
+  },
+  {
+   "name": "씨아이에스케미칼",
+   "corp_code": "01077540",
+   "rcept": "20261127001324",
+   "filed": "20261019",
+   "updated": "20261127",
+   "sub0": "2027-01-21",
+   "sub1": "2027-01-22",
+   "pay": "2027-01-26",
+   "price": 5000.0,
+   "shares": 4000000.0,
+   "amount": 20000000000.0,
+   "method": "일반공모",
+   "lead": [
+    "케이비증권"
+   ],
+   "co": [],
+   "old_pct": 0,
+   "spac": false,
+   "stock": "",
+   "band": null,
+   "final": null,
+   "demand_ratio": null,
+   "lock_pct": null,
+   "listed_shares": null,
+   "float": [],
+   "list_date": null,
+   "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001324",
+   "unlock": [],
+   "float0": null
   }
  ],
  "recent": [
@@ -1485,14 +1410,14 @@
    "list_date": "2026-11-24",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000253",
    "price_filed": 7000.0,
-   "avg_vol": 6665644,
+   "avg_vol": 5369544,
    "code": "498150",
    "listed": "2026-11-24",
    "open": 5930.0,
    "close1": 4230.0,
-   "cur": 3715.0,
+   "cur": 3845.0,
    "high": 6700.0,
-   "ret": -46.9,
+   "ret": -45.1,
    "open_ret": -15.3,
    "unlock": [
     {
@@ -1500,7 +1425,7 @@
      "sh": 4537926.0,
      "pct": 31.64,
      "date": "2026-12-24",
-     "vol_x": 0.7
+     "vol_x": 0.8
     },
     {
      "mo": 2,
@@ -1535,7 +1460,7 @@
      "sh": 3120500.0,
      "pct": 21.76,
      "date": "2029-11-24",
-     "vol_x": 0.5
+     "vol_x": 0.6
     }
    ],
    "float0": 34.01
@@ -1608,14 +1533,14 @@
    "list_date": "2026-11-20",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000048",
    "price_filed": 4700.0,
-   "avg_vol": 3922350,
+   "avg_vol": 5881419,
    "code": "271160",
    "listed": "2026-11-20",
    "open": 10130.0,
    "close1": 6050.0,
-   "cur": 5200.0,
+   "cur": 5470.0,
    "high": 11300.0,
-   "ret": -8.8,
+   "ret": -4.0,
    "open_ret": 77.7,
    "unlock": [
     {
@@ -1623,35 +1548,35 @@
      "sh": 1772997.0,
      "pct": 10.0,
      "date": "2027-01-20",
-     "vol_x": 0.5
+     "vol_x": 0.3
     },
     {
      "mo": 3,
      "sh": 243308.0,
      "pct": 1.37,
      "date": "2027-02-20",
-     "vol_x": 0.1
+     "vol_x": 0.0
     },
     {
      "mo": 12,
      "sh": 1344378.0,
      "pct": 7.58,
      "date": "2027-11-20",
-     "vol_x": 0.3
+     "vol_x": 0.2
     },
     {
      "mo": 24,
      "sh": 700000.0,
      "pct": 3.95,
      "date": "2028-11-20",
-     "vol_x": 0.2
+     "vol_x": 0.1
     },
     {
      "mo": 36,
      "sh": 8203900.0,
      "pct": 46.27,
      "date": "2029-11-20",
-     "vol_x": 2.1
+     "vol_x": 1.4
     }
    ],
    "float0": 30.83
@@ -1729,14 +1654,14 @@
    "list_date": "2026-11-18",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000314",
    "price_filed": 17600.0,
-   "avg_vol": 6219611,
+   "avg_vol": 6599574,
    "code": "471800",
    "listed": "2026-11-18",
    "open": 15100.0,
    "close1": 13320.0,
-   "cur": 9160.0,
+   "cur": 11360.0,
    "high": 18690.0,
-   "ret": -48.0,
+   "ret": -35.5,
    "open_ret": -14.2,
    "unlock": [
     {
@@ -1765,7 +1690,7 @@
      "sh": 314462.0,
      "pct": 2.61,
      "date": "2027-05-18",
-     "vol_x": 0.1
+     "vol_x": 0.0
     },
     {
      "mo": 12,
@@ -1823,14 +1748,14 @@
    "list_date": "2026-11-17",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000504",
    "price_filed": 12000.0,
-   "avg_vol": 1677846,
+   "avg_vol": 1500946,
    "code": "493260",
    "listed": "2026-11-17",
    "open": 31000.0,
    "close1": 18170.0,
-   "cur": 7910.0,
+   "cur": 8240.0,
    "high": 34850.0,
-   "ret": -34.1,
+   "ret": -31.3,
    "open_ret": 158.3,
    "unlock": [],
    "float0": null
@@ -1908,14 +1833,14 @@
    "list_date": "2026-11-16",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000312",
    "price_filed": 11000.0,
-   "avg_vol": 2718996,
+   "avg_vol": 2481547,
    "code": "345290",
    "listed": "2026-11-16",
    "open": 16170.0,
    "close1": 9200.0,
-   "cur": 5810.0,
+   "cur": 6190.0,
    "high": 16500.0,
-   "ret": -47.2,
+   "ret": -43.7,
    "open_ret": 47.0,
    "unlock": [
     {
@@ -1965,7 +1890,7 @@
      "sh": 6398051.0,
      "pct": 44.18,
      "date": "2029-05-16",
-     "vol_x": 2.4
+     "vol_x": 2.6
     }
    ],
    "float0": 34.81
@@ -2002,14 +1927,14 @@
    "list_date": "2026-11-12",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000467",
    "price_filed": 8000.0,
-   "avg_vol": 2588176,
+   "avg_vol": 2610557,
    "code": "493410",
    "listed": "2026-11-12",
    "open": 7620.0,
    "close1": 4810.0,
-   "cur": 3310.0,
+   "cur": 3915.0,
    "high": 7900.0,
-   "ret": -58.6,
+   "ret": -51.1,
    "open_ret": -4.7,
    "unlock": [],
    "float0": null
@@ -2082,14 +2007,14 @@
    "list_date": "2026-11-11",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000396",
    "price_filed": 16400.0,
-   "avg_vol": 798633,
+   "avg_vol": 762494,
    "code": "0153R0",
    "listed": "2026-11-11",
    "open": 16000.0,
    "close1": 11780.0,
-   "cur": 5470.0,
+   "cur": 5690.0,
    "high": 17370.0,
-   "ret": -66.6,
+   "ret": -65.3,
    "open_ret": -2.4,
    "unlock": [
     {
@@ -2097,7 +2022,7 @@
      "sh": 3244703.0,
      "pct": 27.12,
      "date": "2026-12-11",
-     "vol_x": 4.1
+     "vol_x": 4.3
     },
     {
      "mo": 2,
@@ -2125,14 +2050,14 @@
      "sh": 115855.0,
      "pct": 0.97,
      "date": "2028-05-11",
-     "vol_x": 0.1
+     "vol_x": 0.2
     },
     {
      "mo": 30,
      "sh": 4739700.0,
      "pct": 39.61,
      "date": "2029-05-11",
-     "vol_x": 5.9
+     "vol_x": 6.2
     }
    ],
    "float0": 30.33
@@ -2210,14 +2135,14 @@
    "list_date": "2026-11-10",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000113",
    "price_filed": 26500.0,
-   "avg_vol": 1056669,
+   "avg_vol": 1007196,
    "code": "0162D0",
    "listed": "2026-11-10",
    "open": 51100.0,
    "close1": 29400.0,
-   "cur": 15330.0,
+   "cur": 16210.0,
    "high": 57300.0,
-   "ret": -42.2,
+   "ret": -38.8,
    "open_ret": 92.8,
    "unlock": [
     {
@@ -2267,7 +2192,7 @@
      "sh": 4485000.0,
      "pct": 48.38,
      "date": "2029-05-10",
-     "vol_x": 4.2
+     "vol_x": 4.5
     }
    ],
    "float0": 29.49
@@ -2301,12 +2226,12 @@
    "list_date": "2026-11-04",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000373",
    "price_filed": 2000.0,
-   "avg_vol": 137190,
+   "avg_vol": 130705,
    "code": "0222E0",
    "listed": "2026-11-04",
    "open": 2580.0,
    "close1": 1863.0,
-   "cur": 1876.0,
+   "cur": 1877.0,
    "high": 3685.0,
    "ret": -6.2,
    "open_ret": 29.0,
@@ -2381,14 +2306,14 @@
    "list_date": "2026-11-04",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000363",
    "price_filed": 12400.0,
-   "avg_vol": 1215256,
+   "avg_vol": 1162178,
    "code": "495910",
    "listed": "2026-11-04",
    "open": 15890.0,
    "close1": 9890.0,
-   "cur": 3230.0,
+   "cur": 3465.0,
    "high": 20700.0,
-   "ret": -74.0,
+   "ret": -72.1,
    "open_ret": 28.1,
    "unlock": [
     {
@@ -2403,7 +2328,7 @@
      "sh": 544448.0,
      "pct": 3.91,
      "date": "2027-01-04",
-     "vol_x": 0.4
+     "vol_x": 0.5
     },
     {
      "mo": 3,
@@ -2431,7 +2356,7 @@
      "sh": 6823646.0,
      "pct": 48.96,
      "date": "2029-11-04",
-     "vol_x": 5.6
+     "vol_x": 5.9
     }
    ],
    "float0": 37.62
@@ -2504,14 +2429,14 @@
    "list_date": "2026-11-03",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000334",
    "price_filed": 19000.0,
-   "avg_vol": 2783023,
+   "avg_vol": 2678870,
    "code": "0147B0",
    "listed": "2026-11-03",
    "open": 19000.0,
    "close1": 14220.0,
-   "cur": 9900.0,
+   "cur": 12340.0,
    "high": 28350.0,
-   "ret": -47.9,
+   "ret": -35.1,
    "open_ret": 0.0,
    "unlock": [
     {
@@ -2547,14 +2472,14 @@
      "sh": 3630000.0,
      "pct": 24.92,
      "date": "2028-11-03",
-     "vol_x": 1.3
+     "vol_x": 1.4
     },
     {
      "mo": 36,
      "sh": 3630000.0,
      "pct": 24.92,
      "date": "2029-11-03",
-     "vol_x": 1.3
+     "vol_x": 1.4
     }
    ],
    "float0": 35.51
@@ -2622,14 +2547,14 @@
    "list_date": "2026-11-02",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000239",
    "price_filed": 17000.0,
-   "avg_vol": 1076501,
+   "avg_vol": 1027914,
    "code": "359410",
    "listed": "2026-11-02",
    "open": 21350.0,
    "close1": 21500.0,
-   "cur": 5780.0,
+   "cur": 6120.0,
    "high": 37400.0,
-   "ret": -66.0,
+   "ret": -64.0,
    "open_ret": 25.6,
    "unlock": [
     {
@@ -2651,7 +2576,7 @@
      "sh": 5604240.0,
      "pct": 61.88,
      "date": "2029-05-02",
-     "vol_x": 5.2
+     "vol_x": 5.5
     }
    ],
    "float0": 31.7
@@ -2688,14 +2613,14 @@
    "list_date": "2026-10-30",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000360",
    "price_filed": 9000.0,
-   "avg_vol": 2674210,
+   "avg_vol": 2554811,
    "code": "420610",
    "listed": "2026-10-30",
    "open": 19290.0,
    "close1": 31000.0,
-   "cur": 6690.0,
+   "cur": 7240.0,
    "high": 35350.0,
-   "ret": -25.7,
+   "ret": -19.6,
    "open_ret": 114.3,
    "unlock": [],
    "float0": null
@@ -2763,14 +2688,14 @@
    "list_date": "2026-10-30",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000283",
    "price_filed": 15000.0,
-   "avg_vol": 842246,
+   "avg_vol": 807230,
    "code": "439270",
    "listed": "2026-10-30",
    "open": 12000.0,
    "close1": 9360.0,
-   "cur": 4255.0,
+   "cur": 4900.0,
    "high": 12700.0,
-   "ret": -71.6,
+   "ret": -67.3,
    "open_ret": -20.0,
    "unlock": [
     {
@@ -2785,7 +2710,7 @@
      "sh": 631077.0,
      "pct": 4.81,
      "date": "2027-01-30",
-     "vol_x": 0.7
+     "vol_x": 0.8
     },
     {
      "mo": 6,
@@ -2799,14 +2724,14 @@
      "sh": 1369000.0,
      "pct": 10.43,
      "date": "2028-10-30",
-     "vol_x": 1.6
+     "vol_x": 1.7
     },
     {
      "mo": 30,
      "sh": 4805000.0,
      "pct": 36.59,
      "date": "2029-04-30",
-     "vol_x": 5.7
+     "vol_x": 6.0
     }
    ],
    "float0": 39.43
@@ -2840,12 +2765,12 @@
    "list_date": "2026-10-30",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000182",
    "price_filed": 2000.0,
-   "avg_vol": 102392,
+   "avg_vol": 98486,
    "code": "0127E0",
    "listed": "2026-10-30",
    "open": 2810.0,
    "close1": 1872.0,
-   "cur": 1883.0,
+   "cur": 1884.0,
    "high": 2995.0,
    "ret": -5.8,
    "open_ret": 40.5,
@@ -2920,14 +2845,14 @@
    "list_date": "2026-10-29",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000158",
    "price_filed": 15300.0,
-   "avg_vol": 1376420,
+   "avg_vol": 1253107,
    "code": "0053F0",
    "listed": "2026-10-29",
    "open": 30350.0,
    "close1": 21500.0,
-   "cur": 11600.0,
+   "cur": 13030.0,
    "high": 34500.0,
-   "ret": -24.2,
+   "ret": -14.8,
    "open_ret": 98.4,
    "unlock": [
     {
@@ -2935,28 +2860,28 @@
      "sh": 1785498.0,
      "pct": 15.73,
      "date": "2026-11-29",
-     "vol_x": 1.3
+     "vol_x": 1.4
     },
     {
      "mo": 2,
      "sh": 1472535.0,
      "pct": 12.97,
      "date": "2026-12-29",
-     "vol_x": 1.1
+     "vol_x": 1.2
     },
     {
      "mo": 3,
      "sh": 1010267.0,
      "pct": 8.9,
      "date": "2027-01-29",
-     "vol_x": 0.7
+     "vol_x": 0.8
     },
     {
      "mo": 30,
      "sh": 3530940.0,
      "pct": 31.11,
      "date": "2029-04-29",
-     "vol_x": 2.6
+     "vol_x": 2.8
     }
    ],
    "float0": 31.29
@@ -2990,14 +2915,14 @@
    "list_date": "2026-10-27",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000196",
    "price_filed": 2000.0,
-   "avg_vol": 119917,
+   "avg_vol": 99787,
    "code": "0205H0",
    "listed": "2026-10-27",
    "open": 4065.0,
    "close1": 1945.0,
-   "cur": 1875.0,
+   "cur": 1878.0,
    "high": 4160.0,
-   "ret": -6.2,
+   "ret": -6.1,
    "open_ret": 103.3,
    "unlock": [],
    "float0": null
@@ -3072,14 +2997,14 @@
    "list_date": "2026-10-23",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000308",
    "price_filed": 18500.0,
-   "avg_vol": 495355,
+   "avg_vol": 483268,
    "code": "0015M0",
    "listed": "2026-10-23",
    "open": 32350.0,
    "close1": 25000.0,
-   "cur": 7580.0,
+   "cur": 8050.0,
    "high": 40750.0,
-   "ret": -59.0,
+   "ret": -56.5,
    "open_ret": 74.9,
    "unlock": [
     {
@@ -3094,7 +3019,7 @@
      "sh": 3814038.0,
      "pct": 24.96,
      "date": "2027-04-23",
-     "vol_x": 7.7
+     "vol_x": 7.9
     },
     {
      "mo": 8,
@@ -3115,14 +3040,14 @@
      "sh": 515489.0,
      "pct": 3.37,
      "date": "2027-10-23",
-     "vol_x": 1.0
+     "vol_x": 1.1
     },
     {
      "mo": 30,
      "sh": 6573765.0,
      "pct": 43.02,
      "date": "2029-04-23",
-     "vol_x": 13.3
+     "vol_x": 13.6
     }
    ],
    "float0": 15.12
@@ -3159,14 +3084,14 @@
    "list_date": "2026-10-22",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000327",
    "price_filed": 7800.0,
-   "avg_vol": 2301240,
+   "avg_vol": 2250631,
    "code": "0013Y0",
    "listed": "2026-10-22",
    "open": 16000.0,
    "close1": 13320.0,
-   "cur": 4500.0,
+   "cur": 4880.0,
    "high": 19650.0,
-   "ret": -42.3,
+   "ret": -37.4,
    "open_ret": 105.1,
    "unlock": [],
    "float0": null
@@ -3236,14 +3161,14 @@
    "list_date": "2026-10-20",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000447",
    "price_filed": 90500.0,
-   "avg_vol": 809989,
+   "avg_vol": 790218,
    "code": "0158S0",
    "listed": "2026-10-20",
    "open": 75700.0,
    "close1": 61500.0,
-   "cur": 43250.0,
+   "cur": 46550.0,
    "high": 101300.0,
-   "ret": -52.2,
+   "ret": -48.6,
    "open_ret": -16.4,
    "unlock": [
     {
@@ -3251,7 +3176,7 @@
      "sh": 1328151.0,
      "pct": 11.93,
      "date": "2026-11-20",
-     "vol_x": 1.6
+     "vol_x": 1.7
     },
     {
      "mo": 3,
@@ -3279,7 +3204,7 @@
      "sh": 4127252.0,
      "pct": 37.09,
      "date": "2028-10-20",
-     "vol_x": 5.1
+     "vol_x": 5.2
     }
    ],
    "float0": 20.77
@@ -3342,14 +3267,14 @@
    "list_date": "2026-10-15",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000191",
    "price_filed": 12300.0,
-   "avg_vol": 1638004,
+   "avg_vol": 1393080,
    "code": "179880",
    "listed": "2026-10-15",
    "open": 27400.0,
    "close1": 17470.0,
-   "cur": 8350.0,
+   "cur": 9090.0,
    "high": 28800.0,
-   "ret": -32.1,
+   "ret": -26.1,
    "open_ret": 122.8,
    "unlock": [
     {
@@ -3357,7 +3282,7 @@
      "sh": 75000.0,
      "pct": 0.6,
      "date": "2027-01-15",
-     "vol_x": 0.0
+     "vol_x": 0.1
     },
     {
      "mo": 6,
@@ -3378,7 +3303,7 @@
      "sh": 7979440.0,
      "pct": 63.33,
      "date": "2029-04-15",
-     "vol_x": 4.9
+     "vol_x": 5.7
     }
    ],
    "float0": 34.5
@@ -3415,14 +3340,14 @@
    "list_date": "2026-10-01",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916000234",
    "price_filed": 19500.0,
-   "avg_vol": 441080,
+   "avg_vol": 447892,
    "code": "468670",
    "listed": "2026-10-01",
    "open": 61800.0,
    "close1": 30450.0,
-   "cur": 9900.0,
+   "cur": 10930.0,
    "high": 62100.0,
-   "ret": -49.2,
+   "ret": -43.9,
    "open_ret": 216.9,
    "unlock": [],
    "float0": null
@@ -3500,14 +3425,14 @@
    "list_date": "2026-09-30",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915000085",
    "price_filed": 14600.0,
-   "avg_vol": 237715,
+   "avg_vol": 231335,
    "code": "266690",
    "listed": "2026-09-30",
    "open": 27100.0,
    "close1": 17980.0,
-   "cur": 4855.0,
+   "cur": 5320.0,
    "high": 28700.0,
-   "ret": -66.7,
+   "ret": -63.6,
    "open_ret": 85.6,
    "unlock": [
     {
@@ -3522,7 +3447,7 @@
      "sh": 902078.0,
      "pct": 4.77,
      "date": "2026-11-30",
-     "vol_x": 3.8
+     "vol_x": 3.9
     },
     {
      "mo": 3,
@@ -3550,7 +3475,7 @@
      "sh": 9648204.0,
      "pct": 51.07,
      "date": "2029-09-30",
-     "vol_x": 40.6
+     "vol_x": 41.7
     }
    ],
    "float0": 40.11
@@ -3628,14 +3553,14 @@
    "list_date": "2026-09-29",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915000237",
    "price_filed": 10000.0,
-   "avg_vol": 392190,
+   "avg_vol": 355829,
    "code": "486510",
    "listed": "2026-09-29",
    "open": 21150.0,
    "close1": 18220.0,
-   "cur": 4205.0,
+   "cur": 4670.0,
    "high": 29750.0,
-   "ret": -58.0,
+   "ret": -53.3,
    "open_ret": 111.5,
    "unlock": [
     {
@@ -3643,7 +3568,7 @@
      "sh": 1913156.0,
      "pct": 9.74,
      "date": "2026-10-29",
-     "vol_x": 4.9
+     "vol_x": 5.4
     },
     {
      "mo": 3,
@@ -3671,21 +3596,21 @@
      "sh": 1576896.0,
      "pct": 8.03,
      "date": "2028-09-29",
-     "vol_x": 4.0
+     "vol_x": 4.4
     },
     {
      "mo": 36,
      "sh": 5525151.0,
      "pct": 28.12,
      "date": "2029-09-29",
-     "vol_x": 14.1
+     "vol_x": 15.5
     },
     {
      "mo": 48,
      "sh": 6095250.0,
      "pct": 31.03,
      "date": "2030-09-29",
-     "vol_x": 15.5
+     "vol_x": 17.1
     }
    ],
    "float0": 22.19
@@ -3724,14 +3649,14 @@
    "list_date": "2026-09-29",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000379",
    "price_filed": 18000.0,
-   "avg_vol": 2072921,
+   "avg_vol": 2113654,
    "code": "0035S0",
    "listed": "2026-09-29",
    "open": 56000.0,
    "close1": 29900.0,
-   "cur": 19540.0,
+   "cur": 21350.0,
    "high": 60000.0,
-   "ret": 8.6,
+   "ret": 18.6,
    "open_ret": 211.1,
    "unlock": [],
    "float0": null
@@ -3768,14 +3693,14 @@
    "list_date": "2026-09-23",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911000209",
    "price_filed": 12000.0,
-   "avg_vol": 50522,
+   "avg_vol": 47789,
    "code": "0010S0",
    "listed": "2026-09-23",
    "open": 42750.0,
    "close1": 46300.0,
-   "cur": 4870.0,
+   "cur": 5240.0,
    "high": 48000.0,
-   "ret": -59.4,
+   "ret": -56.3,
    "open_ret": 256.2,
    "unlock": [],
    "float0": null
@@ -3809,14 +3734,14 @@
    "list_date": "2026-09-22",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000276",
    "price_filed": 2000.0,
-   "avg_vol": 29717,
+   "avg_vol": 27304,
    "code": "0200G0",
    "listed": "2026-09-22",
    "open": 3415.0,
    "close1": 2155.0,
-   "cur": 1893.0,
+   "cur": 1891.0,
    "high": 5220.0,
-   "ret": -5.3,
+   "ret": -5.4,
    "open_ret": 70.8,
    "unlock": [],
    "float0": null
@@ -3850,14 +3775,14 @@
    "list_date": "2026-09-22",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000181",
    "price_filed": 2000.0,
-   "avg_vol": 34097,
+   "avg_vol": 33436,
    "code": "0209J0",
    "listed": "2026-09-22",
    "open": 4000.0,
    "close1": 1914.0,
-   "cur": 1893.0,
+   "cur": 1892.0,
    "high": 4580.0,
-   "ret": -5.3,
+   "ret": -5.4,
    "open_ret": 100.0,
    "unlock": [],
    "float0": null
@@ -3930,14 +3855,14 @@
    "list_date": "2026-09-21",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000307",
    "price_filed": 10000.0,
-   "avg_vol": 133850,
+   "avg_vol": 127725,
    "code": "0161M0",
    "listed": "2026-09-21",
    "open": 25250.0,
    "close1": 34300.0,
-   "cur": 4350.0,
+   "cur": 4765.0,
    "high": 40500.0,
-   "ret": -56.5,
+   "ret": -52.4,
    "open_ret": 152.5,
    "unlock": [
     {
@@ -3945,21 +3870,21 @@
      "sh": 1025700.0,
      "pct": 8.4,
      "date": "2026-10-21",
-     "vol_x": 7.7
+     "vol_x": 8.0
     },
     {
      "mo": 2,
      "sh": 1143690.0,
      "pct": 9.36,
      "date": "2026-11-21",
-     "vol_x": 8.5
+     "vol_x": 9.0
     },
     {
      "mo": 3,
      "sh": 1854375.0,
      "pct": 15.18,
      "date": "2026-12-21",
-     "vol_x": 13.9
+     "vol_x": 14.5
     },
     {
      "mo": 12,
@@ -3973,7 +3898,7 @@
      "sh": 4595850.0,
      "pct": 37.62,
      "date": "2029-09-21",
-     "vol_x": 34.3
+     "vol_x": 36.0
     }
    ],
    "float0": 28.61
@@ -4007,14 +3932,14 @@
    "list_date": "2026-09-10",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828000881",
    "price_filed": 2000.0,
-   "avg_vol": 26249,
+   "avg_vol": 25446,
    "code": "0197V0",
    "listed": "2026-09-10",
    "open": 4000.0,
    "close1": 2075.0,
-   "cur": 1894.0,
+   "cur": 1898.0,
    "high": 5700.0,
-   "ret": -5.3,
+   "ret": -5.1,
    "open_ret": 100.0,
    "unlock": [],
    "float0": null
@@ -4092,14 +4017,14 @@
    "list_date": "2026-09-04",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825000417",
    "price_filed": 10000.0,
-   "avg_vol": 234993,
+   "avg_vol": 243644,
    "code": "386380",
    "listed": "2026-09-04",
    "open": 8500.0,
    "close1": 23500.0,
-   "cur": 6350.0,
+   "cur": 7400.0,
    "high": 39350.0,
-   "ret": -36.5,
+   "ret": -26.0,
    "open_ret": -15.0,
    "unlock": [
     {
@@ -4107,21 +4032,21 @@
      "sh": 4347203.0,
      "pct": 23.17,
      "date": "2026-10-04",
-     "vol_x": 18.5
+     "vol_x": 17.8
     },
     {
      "mo": 2,
      "sh": 905366.0,
      "pct": 4.83,
      "date": "2026-11-04",
-     "vol_x": 3.9
+     "vol_x": 3.7
     },
     {
      "mo": 3,
      "sh": 4167846.0,
      "pct": 22.21,
      "date": "2026-12-04",
-     "vol_x": 17.7
+     "vol_x": 17.1
     },
     {
      "mo": 6,
@@ -4135,14 +4060,14 @@
      "sh": 322062.0,
      "pct": 1.72,
      "date": "2027-09-04",
-     "vol_x": 1.4
+     "vol_x": 1.3
     },
     {
      "mo": 36,
      "sh": 3884322.0,
      "pct": 20.7,
      "date": "2029-09-04",
-     "vol_x": 16.5
+     "vol_x": 15.9
     }
    ],
    "float0": 27.26
@@ -4210,14 +4135,14 @@
    "list_date": "2026-08-25",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810000663",
    "price_filed": 23000.0,
-   "avg_vol": 56385,
+   "avg_vol": 50795,
    "code": "0155E0",
    "listed": "2026-08-25",
    "open": 20500.0,
    "close1": 13930.0,
-   "cur": 5020.0,
+   "cur": 5560.0,
    "high": 21400.0,
-   "ret": -78.2,
+   "ret": -75.8,
    "open_ret": -10.9,
    "unlock": [
     {
@@ -4225,35 +4150,35 @@
      "sh": 547017.0,
      "pct": 9.9,
      "date": "2026-09-25",
-     "vol_x": 9.7
+     "vol_x": 10.8
     },
     {
      "mo": 3,
      "sh": 30000.0,
      "pct": 0.54,
      "date": "2026-11-25",
-     "vol_x": 0.5
+     "vol_x": 0.6
     },
     {
      "mo": 6,
      "sh": 88673.0,
      "pct": 1.6,
      "date": "2027-02-25",
-     "vol_x": 1.6
+     "vol_x": 1.7
     },
     {
      "mo": 12,
      "sh": 283000.0,
      "pct": 5.12,
      "date": "2027-08-25",
-     "vol_x": 5.0
+     "vol_x": 5.6
     },
     {
      "mo": 36,
      "sh": 2459000.0,
      "pct": 44.49,
      "date": "2029-08-25",
-     "vol_x": 43.6
+     "vol_x": 48.4
     }
    ],
    "float0": 38.35
@@ -4326,14 +4251,14 @@
    "list_date": "2026-08-24",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811000060",
    "price_filed": 41200.0,
-   "avg_vol": 102052,
+   "avg_vol": 100258,
    "code": "417030",
    "listed": "2026-08-24",
    "open": 40500.0,
    "close1": 28650.0,
-   "cur": 8820.0,
+   "cur": 10280.0,
    "high": 42000.0,
-   "ret": -78.6,
+   "ret": -75.0,
    "open_ret": -1.7,
    "unlock": [
     {
@@ -4348,14 +4273,14 @@
      "sh": 301003.0,
      "pct": 31.07,
      "date": "2027-08-24",
-     "vol_x": 2.9
+     "vol_x": 3.0
     },
     {
      "mo": 36,
      "sh": 658837.0,
      "pct": 68.0,
      "date": "2029-08-24",
-     "vol_x": 6.5
+     "vol_x": 6.6
     }
    ],
    "float0": 37.15
@@ -4415,14 +4340,14 @@
    "list_date": "2026-08-21",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810000682",
    "price_filed": 28400.0,
-   "avg_vol": 21446,
+   "avg_vol": 20112,
    "code": "282620",
    "listed": "2026-08-21",
    "open": 28000.0,
    "close1": 18580.0,
-   "cur": 11120.0,
+   "cur": 11460.0,
    "high": 29500.0,
-   "ret": -60.8,
+   "ret": -59.6,
    "open_ret": -1.4,
    "unlock": [
     {
@@ -4430,21 +4355,21 @@
      "sh": 546557.0,
      "pct": 9.33,
      "date": "2027-02-21",
-     "vol_x": 25.5
+     "vol_x": 27.2
     },
     {
      "mo": 12,
      "sh": 34000.0,
      "pct": 0.58,
      "date": "2027-08-21",
-     "vol_x": 1.6
+     "vol_x": 1.7
     },
     {
      "mo": 24,
      "sh": 3380965.0,
      "pct": 57.69,
      "date": "2028-08-21",
-     "vol_x": 157.7
+     "vol_x": 168.1
     }
    ],
    "float0": 32.41
@@ -4517,14 +4442,14 @@
    "list_date": "2026-08-13",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260803000165",
    "price_filed": 11000.0,
-   "avg_vol": 71481,
+   "avg_vol": 79910,
    "code": "487400",
    "listed": "2026-08-13",
    "open": 21000.0,
    "close1": 15380.0,
-   "cur": 2955.0,
+   "cur": 3645.0,
    "high": 24600.0,
-   "ret": -73.1,
+   "ret": -66.9,
    "open_ret": 90.9,
    "unlock": [
     {
@@ -4532,28 +4457,28 @@
      "sh": 1068407.0,
      "pct": 10.41,
      "date": "2026-09-13",
-     "vol_x": 14.9
+     "vol_x": 13.4
     },
     {
      "mo": 3,
      "sh": 183110.0,
      "pct": 1.78,
      "date": "2026-11-13",
-     "vol_x": 2.6
+     "vol_x": 2.3
     },
     {
      "mo": 12,
      "sh": 350736.0,
      "pct": 3.42,
      "date": "2027-08-13",
-     "vol_x": 4.9
+     "vol_x": 4.4
     },
     {
      "mo": 36,
      "sh": 5463761.0,
      "pct": 53.25,
      "date": "2029-08-13",
-     "vol_x": 76.4
+     "vol_x": 68.4
     }
    ],
    "float0": 30.03
@@ -4587,14 +4512,14 @@
    "list_date": "2026-08-12",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731000427",
    "price_filed": 5000.0,
-   "avg_vol": 164074,
+   "avg_vol": 162785,
    "code": "483350",
    "listed": "2026-08-12",
    "open": 6000.0,
    "close1": 5140.0,
-   "cur": 2125.0,
+   "cur": 2250.0,
    "high": 7360.0,
-   "ret": -69.6,
+   "ret": -67.9,
    "open_ret": -14.3,
    "unlock": [],
    "float0": null
@@ -4649,14 +4574,14 @@
    "list_date": "2026-07-24",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000294",
    "price_filed": 21500.0,
-   "avg_vol": 26798,
+   "avg_vol": 27090,
    "code": "0156T0",
    "listed": "2026-07-24",
    "open": 21500.0,
    "close1": 14790.0,
-   "cur": 5820.0,
+   "cur": 6360.0,
    "high": 25550.0,
-   "ret": -72.9,
+   "ret": -70.4,
    "open_ret": 0.0,
    "unlock": [
     {
@@ -4671,7 +4596,7 @@
      "sh": 5145000.0,
      "pct": 66.11,
      "date": "2029-01-24",
-     "vol_x": 192.0
+     "vol_x": 189.9
     }
    ],
    "float0": 32.96
@@ -4708,14 +4633,14 @@
    "list_date": "2026-07-13",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260626000241",
    "price_filed": 20700.0,
-   "avg_vol": 132652,
+   "avg_vol": 127516,
    "code": "387690",
    "listed": "2026-07-13",
    "open": 30750.0,
    "close1": 22000.0,
-   "cur": 9780.0,
+   "cur": 10750.0,
    "high": 34650.0,
-   "ret": -52.8,
+   "ret": -48.1,
    "open_ret": 48.6,
    "unlock": [],
    "float0": null
@@ -4752,14 +4677,14 @@
    "list_date": "2026-07-06",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260623000235",
    "price_filed": 10000.0,
-   "avg_vol": 270190,
+   "avg_vol": 252391,
    "code": "365660",
    "listed": "2026-07-06",
    "open": 16560.0,
    "close1": 9400.0,
-   "cur": 2145.0,
+   "cur": 2315.0,
    "high": 20300.0,
-   "ret": -78.5,
+   "ret": -76.8,
    "open_ret": 65.6,
    "unlock": [],
    "float0": null
@@ -4796,14 +4721,14 @@
    "list_date": "2026-07-01",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260622000382",
    "price_filed": 8000.0,
-   "avg_vol": 2068603,
+   "avg_vol": 2186550,
    "code": "0039P0",
    "listed": "2026-07-01",
    "open": 22250.0,
    "close1": 10080.0,
-   "cur": 8340.0,
+   "cur": 9020.0,
    "high": 22500.0,
-   "ret": 4.2,
+   "ret": 12.7,
    "open_ret": 178.1,
    "unlock": [],
    "float0": null
@@ -4837,14 +4762,14 @@
    "list_date": "2026-06-30",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260619000190",
    "price_filed": 2000.0,
-   "avg_vol": 15050,
+   "avg_vol": 14434,
    "code": "0164H0",
    "listed": "2026-06-30",
    "open": 4090.0,
    "close1": 1941.0,
-   "cur": 1917.0,
+   "cur": 1919.0,
    "high": 5000.0,
-   "ret": -4.1,
+   "ret": -4.0,
    "open_ret": 104.5,
    "unlock": [],
    "float0": null
@@ -4917,14 +4842,14 @@
    "list_date": "2026-06-30",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260617000168",
    "price_filed": 12000.0,
-   "avg_vol": 135332,
+   "avg_vol": 131467,
    "code": "475040",
    "listed": "2026-06-30",
    "open": 11020.0,
    "close1": 7200.0,
-   "cur": 2055.0,
+   "cur": 2175.0,
    "high": 11080.0,
-   "ret": -82.9,
+   "ret": -81.9,
    "open_ret": -8.2,
    "unlock": [
     {
@@ -4946,14 +4871,14 @@
      "sh": 707030.0,
      "pct": 1.33,
      "date": "2027-06-30",
-     "vol_x": 5.2
+     "vol_x": 5.4
     },
     {
      "mo": 36,
      "sh": 26382611.0,
      "pct": 49.48,
      "date": "2029-06-30",
-     "vol_x": 194.9
+     "vol_x": 200.7
     }
    ],
    "float0": 48.91
@@ -4990,14 +4915,14 @@
    "list_date": "2026-06-29",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260616000249",
    "price_filed": 12500.0,
-   "avg_vol": 62672,
+   "avg_vol": 64210,
    "code": "153890",
    "listed": "2026-06-29",
    "open": 35350.0,
    "close1": 17530.0,
-   "cur": 5450.0,
+   "cur": 6170.0,
    "high": 42500.0,
-   "ret": -56.4,
+   "ret": -50.6,
    "open_ret": 182.8,
    "unlock": [],
    "float0": null
@@ -5031,14 +4956,14 @@
    "list_date": "2026-06-19",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260608000163",
    "price_filed": 2000.0,
-   "avg_vol": 13067,
+   "avg_vol": 15992,
    "code": "0165X0",
    "listed": "2026-06-19",
    "open": 3905.0,
    "close1": 1970.0,
-   "cur": 1917.0,
+   "cur": 1913.0,
    "high": 5570.0,
-   "ret": -4.1,
+   "ret": -4.3,
    "open_ret": 95.2,
    "unlock": [],
    "float0": null
@@ -5076,14 +5001,14 @@
    "list_date": "2026-06-08",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260522000571",
    "price_filed": 21500.0,
-   "avg_vol": 243100,
+   "avg_vol": 248267,
    "code": "0117P0",
    "listed": "2026-06-08",
    "open": 32000.0,
    "close1": 13730.0,
-   "cur": 3880.0,
+   "cur": 3955.0,
    "high": 42000.0,
-   "ret": -82.0,
+   "ret": -81.6,
    "open_ret": 48.8,
    "unlock": [],
    "float0": null
@@ -5117,14 +5042,14 @@
    "list_date": "2026-06-05",
    "dart": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260521000525",
    "price_filed": 2000.0,
-   "avg_vol": 9514,
+   "avg_vol": 9226,
    "code": "0134X0",
    "listed": "2026-06-05",
    "open": 6200.0,
    "close1": 1984.0,
-   "cur": 1983.0,
+   "cur": 1978.0,
    "high": 6710.0,
-   "ret": -0.8,
+   "ret": -1.1,
    "open_ret": 210.0,
    "unlock": [],
    "float0": null
